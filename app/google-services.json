@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "923717317232",
+    "firebase_url": "https://badminton-laws.firebaseio.com",
+    "project_id": "badminton-laws",
+    "storage_bucket": "badminton-laws.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923717317232:android:4cadd2ace69ea018",
+        "android_client_info": {
+          "package_name": "com.thanhhai.badminton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923717317232-24qm8cighqnr3rpaorl4hucnvllu9ktd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnJruCB-VZgbwbkJz9i-xMO95ytClKEwg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
