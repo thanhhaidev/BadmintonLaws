@@ -6,6 +6,10 @@ import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentTransaction;
 import android.view.View;
 
+import com.thanhhai.badminton.fragment.FriendsFragment;
+import com.thanhhai.badminton.fragment.EventFragment;
+import com.thanhhai.badminton.fragment.HomeFragment;
+
 public class Slide_Navigation_Main extends FragmentActivity implements View.OnClickListener {
 
     private ResideMenu resideMenu;

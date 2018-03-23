@@ -1,0 +1,13 @@
+.content {
+    color: #0070c0;
+}
+body {
+    font-size:16px; 
+    text-align:justify
+}
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
